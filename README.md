@@ -3,7 +3,7 @@
 
 Welcome to my Python learning repository! 🐍  
 
-This repository contains all the Python programs I have written throughout my journey of learning and improving my coding skills. From basic scripts to more advanced projects.
+This repository contains all the Python programs I have written throughout my journey of learning and improving my coding skills. From basic scripts to more advanced projects (I'm always learning, so there will be updates).
 
 ### 🔹 What You’ll Find Here:  
 - Small scripts and utilities  
